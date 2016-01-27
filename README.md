@@ -1,2 +1,2 @@
 # goVector
-Adding animations using vector drawables
+A complete library for using SVG images in android.
